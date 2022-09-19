@@ -1,7 +1,6 @@
-# Cientista Genial
+## Cientista Genial
 
-# Daniel Físico
-<sub>*Data Scientist* $→$ Cientista Genial</sub>
+<sub>*Data Scientist*</sub>
 
 **Background in:** Python, Machine Learning, MLOps, Statistic, Physical and Mathematical.
 
